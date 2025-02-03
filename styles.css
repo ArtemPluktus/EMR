@@ -18,6 +18,19 @@ a{
   text-shadow: #000 3px 3px;
 }
 
+.description{
+  font-family: "Roboto", serif;
+    font-weight: 400;
+    color: #fff;
+    text-shadow: #000 3px 3px;
+    font-size: 30px;
+    width: 70%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 70px;
+}
+
 .img {
   display: block;
   width: 40%;
@@ -32,8 +45,9 @@ a{
   font-size: 34px;
   font-family: "Roboto", serif;
   font-weight: 400;
-color: #fff;
+  color: #fff;
     text-shadow: #000 3px 3px;
+    margin-bottom: 70px;
 }
 
 .links {
@@ -43,7 +57,7 @@ color: #fff;
   align-items: center;
   justify-content: space-around;
   margin-bottom: 100px;
-color: #30d5c8;
+  color: #30d5c8;
 }
 
 .link {
